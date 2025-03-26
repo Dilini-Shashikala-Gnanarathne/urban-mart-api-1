@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GL5UVlcp3nRwhLOmqNJlz3/acceRU5kWHyk3ABZzK9g=",
+  "Source": "urbanMartAPI",
+  "BasePath": "_content/urbanMartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

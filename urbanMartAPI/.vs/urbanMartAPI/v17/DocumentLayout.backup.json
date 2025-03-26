@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|c:\\users\\rizer\\desktop\\urban martapi\\urban-mart-api-1\\urbanmartapi\\urbanmartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|solutionrelative:urbanmartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|c:\\users\\rizer\\desktop\\urban martapi\\urban-mart-api-1\\urbanmartapi\\urbanmartapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|solutionrelative:urbanmartapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|c:\\users\\rizer\\desktop\\urban martapi\\urban-mart-api-1\\urbanmartapi\\urbanmartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|solutionrelative:urbanmartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|c:\\users\\rizer\\desktop\\urban martapi\\urban-mart-api-1\\urbanmartapi\\urbanmartapi\\systementities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6DF81D-19B2-418B-B3DD-DA681550FA1D}|urbanMartAPI\\urbanMartAPI.csproj|solutionrelative:urbanmartapi\\systementities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "urbanMartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\appsettings.json*",
+              "RelativeToolTip": "urbanMartAPI\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T02:55:18.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "urbanMartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\Program.cs",
+              "RelativeToolTip": "urbanMartAPI\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:36:21.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\SystemEntities\\Product.cs",
+              "RelativeDocumentMoniker": "urbanMartAPI\\SystemEntities\\Product.cs",
+              "ToolTip": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\SystemEntities\\Product.cs",
+              "RelativeToolTip": "urbanMartAPI\\SystemEntities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:36:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "urbanMartAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Rizer\\Desktop\\Urban MArtAPi\\urban-mart-api-1\\urbanMartAPI\\urbanMartAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "urbanMartAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:34:17.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
